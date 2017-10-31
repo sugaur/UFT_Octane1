@@ -7,3 +7,4 @@ Browser("Welcome: Mercury Tours").Page("Welcome: Mercury Tours").Image("Sign-In"
 'Browser("Welcome: Mercury Tours").Dialog("Internet Explorer").WinButton("OK").Click @@ hightlight id_;_70900_;_script infofile_;_ZIP::ssf6.xml_;_
 
 Browser("Welcome: Mercury Tours").Page("Welcome: Mercury Tours").Link("SIGN-OFF").Click @@ hightlight id_;_Browser("Welcome: Mercury Tours").Page("Welcome: Mercury Tours").Link("SIGN-OFF")_;_script infofile_;_ZIP::ssf7.xml_;_
+
