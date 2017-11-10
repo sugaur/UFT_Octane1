@@ -7,10 +7,10 @@
 <ReportNode type="Step">
 <Data>
     <Name>"Welcome: Mercury Tours"- Smart Identification</Name>
-    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not unique (12 objects found)&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=Browser&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (12 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not unique (13 objects found)&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=Browser&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (13 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
 micclass=Browser&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
 name=Welcome: Mercury Tours&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;title=Welcome: Mercury Tours&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;openurl=http://newtours.demoaut.com&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;opentitle=Welcome: Mercury Tours&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;hasstatusbar=0&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;hasmenubar=-1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;hastoolbar=-1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;openedbytestingtool=-1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;number of tabs=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
-    <StartTime>2017-11-07 19:54:07</StartTime>
+    <StartTime>2017-11-10 18:18:50</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -21,11 +21,11 @@ name=Welcome: Mercury Tours&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 match
             <Name><![CDATA[Welcome: Mercury Tours]]></Name>
           </Object>
         </Path>
-        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not unique (12 objects found)</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>micclass=Browser<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (12 objects found)&nbsp;</FONT></u><br>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not unique (13 objects found)</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>micclass=Browser<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (13 objects found)&nbsp;</FONT></u><br>
 micclass=Browser<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
 name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>title=Welcome: Mercury Tours<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>openurl=http://newtours.demoaut.com<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>opentitle=Welcome: Mercury Tours<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>hasstatusbar=0<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>hasmenubar=-1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>hastoolbar=-1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>openedbytestingtool=-1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>number of tabs=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
       </TestObject>
-      <IconKey>fce760a885ba4375ba2e5675c64344f3</IconKey>
+      <IconKey>e6018784a10446318be244b69c8addcc</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -35,7 +35,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
 <Data>
     <Name>userName.Set</Name>
     <Description>"tutorial"</Description>
-    <StartTime>2017-11-07 19:54:07</StartTime>
+    <StartTime>2017-11-10 18:18:50</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -71,7 +71,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>ab94ef3e0bc54f1394826c282c6c0c03</IconKey>
+      <IconKey>9dcf0e4c34fe4e2ca314759e77390ddd</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -80,7 +80,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
 <Data>
     <Name>password.SetSecure</Name>
     <Description>"59f844b5aafea635c10ccc3877d4d7c3b7d59b01aaf3"</Description>
-    <StartTime>2017-11-07 19:54:07</StartTime>
+    <StartTime>2017-11-10 18:18:50</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -116,7 +116,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>ab94ef3e0bc54f1394826c282c6c0c03</IconKey>
+      <IconKey>9dcf0e4c34fe4e2ca314759e77390ddd</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -125,7 +125,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
 <Data>
     <Name>Sign-In.Click</Name>
     <Description />
-    <StartTime>2017-11-07 19:54:07</StartTime>
+    <StartTime>2017-11-10 18:18:50</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -160,16 +160,16 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>219f7fa820a040378304e5acd6d5c795</IconKey>
+      <IconKey>b9a9620c1c6d4f518fba7aada6d4bd80</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
 </ReportNode>
 <ReportNode type="Step">
 <Data>
-    <Name>SIGN-OFF.Click</Name>
+    <Name>Home.Click</Name>
     <Description />
-    <StartTime>2017-11-07 19:54:12</StartTime>
+    <StartTime>2017-11-10 18:18:57</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -185,14 +185,14 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
           </Object>
           <Object>
             <Type>Link</Type>
-            <Name><![CDATA[SIGN-OFF]]></Name>
+            <Name><![CDATA[Home]]></Name>
           </Object>
         </Path>
         <Operation>Click</Operation>
         <Properties>
           <Property>
             <Name><![CDATA[text]]></Name>
-            <Value><![CDATA[SIGN-OFF]]></Value>
+            <Value><![CDATA[Home]]></Value>
           </Property>
           <Property>
             <Name><![CDATA[html tag]]></Name>
@@ -200,7 +200,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>fc004a8059b5474f87fcd21a26194ee3</IconKey>
+      <IconKey>0dcd1443e6c7496f8832cdc112dbd82b</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -208,8 +208,8 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
 <Data>
     <Name>Welcome: Mercury Tours</Name>
     <Description>Page</Description>
-    <StartTime>2017-11-07 19:54:07</StartTime>
-    <Duration>5</Duration>
+    <StartTime>2017-11-10 18:18:50</StartTime>
+    <Duration>7</Duration>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -226,7 +226,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
         </Path>
         <OperationData><![CDATA[Page]]></OperationData>
       </TestObject>
-      <IconKey>6dd418ea5e44498fb818ba0d8e0e5070</IconKey>
+      <IconKey>404891ad98e649caac150b3508586fbd</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -234,8 +234,8 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
 <Data>
     <Name>Welcome: Mercury Tours</Name>
     <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
-    <StartTime>2017-11-07 19:54:07</StartTime>
-    <Duration>5</Duration>
+    <StartTime>2017-11-10 18:18:50</StartTime>
+    <Duration>7</Duration>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -248,7 +248,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
         </Path>
         <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
       </TestObject>
-      <IconKey>ea7031d26c6a48d185fe0a4e9525e94f</IconKey>
+      <IconKey>b2cf21274ef14090bf6998e12553bca1</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -256,12 +256,12 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2017-11-07 19:54:07</StartTime>
-    <Duration>5</Duration>
+    <StartTime>2017-11-10 18:18:46</StartTime>
+    <Duration>11</Duration>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>45e0a075e34c4f008df982aba07084da</IconKey>
+      <IconKey>2bb20cb1be8246bc9dcaaa2806265b27</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -269,11 +269,11 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2017-11-07 19:54:03</StartTime>
-    <Duration>9</Duration>
+    <StartTime>2017-11-10 18:18:40</StartTime>
+    <Duration>17</Duration>
     <Result>Done</Result>
     <Extension>
-      <IconKey>58dbb88a8fc24dc092ebc0123e2a79cd</IconKey>
+      <IconKey>2cf5bcb3698545d89e1f4acc9600d866</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -297,12 +297,12 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
     <ToolName>HPE Unified Functional Testing</ToolName>
     <ToolVersion>14.0</ToolVersion>
     <Description />
-    <StartTime>2017-11-07 19:54:03</StartTime>
-    <Duration>9</Duration>
+    <StartTime>2017-11-10 18:18:38</StartTime>
+    <Duration>19</Duration>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>dbf56250a5d6457a9c130e990a92cb4f</IconKey>
+      <IconKey>9bd8098f1e87422887bb3e68c57d6b35</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -323,7 +323,7 @@ name=Welcome: Mercury Tours<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><b
 </ReportNode>
 <GeneralInfo>
     <ResultName>Web_GUI_GIT1.1</ResultName>
-    <RunStartTime>2017-11-07 19:54:03</RunStartTime>
+    <RunStartTime>2017-11-10 18:18:38</RunStartTime>
     <Timezone>+05:30:00</Timezone>
     <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.0</OrchestrationToolVersion>
